@@ -1,0 +1,103 @@
+---
+- id: 0
+  state: Washington
+- id: 1
+  state: Idaho
+- id: 2
+  state: Oregon
+- id: 3
+  state: Utah
+- id: 4
+  state: Montana
+- id: 5
+  state: California
+- id: 6
+  state: Nevada
+- id: 7
+  state: Colorado
+- id: 8
+  state: Texas
+- id: 9
+  state: Wyoming
+- id: 10
+  state: Arizona
+- id: 11
+  state: New Mexico
+- id: 12
+  state: North Dakota
+- id: 13
+  state: South Dakota
+- id: 14
+  state: Wisconson
+- id: 15
+  state: Michigan
+- id: 16
+  state: Illinois
+- id: 17
+  state: Ohio
+- id: 18
+  state: Iowa
+- id: 19
+  state: Minnesota
+- id: 20
+  state: Wisconson
+- id: 21
+  state: West Virginia
+- id: 22
+  state: Virginia
+- id: 23
+  state: Pennsylvania
+- id: 24
+  state: Vermont
+- id: 25
+  state: New Hampshire
+- id: 26
+  state: Maine
+- id: 27
+  state: Florida
+- id: 28
+  state: Georgia
+- id: 29
+  state: South Carolina
+- id: 30
+  state: North Carolina
+- id: 31
+  state: Massachusetts
+- id: 32
+  state: New York
+- id: 33
+  state: New Jersey
+- id: 34
+  state: Rhode Island
+- id: 35
+  state: Mississippi
+- id: 36
+  state: Maryland
+- id: 37
+  state: Alabama
+- id: 38
+  state: Louisiana
+- id: 39
+  state: Arkansas
+- id: 40
+  state: Kansas
+- id: 41
+  state: Nebraska
+- id: 42
+  state: Utah
+- id: 43
+  state: Oklahoma
+- id: 44
+  state: Missouri
+- id: 45
+  state: Alaska
+- id: 46
+  state: Hawaii
+- id: 47
+  state: Tennessee
+- id: 48
+  state: Indiana
+- id: 49
+  state: Connecticut
+- id: 50
+  state: Delaware
